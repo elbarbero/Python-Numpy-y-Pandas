@@ -1,0 +1,3 @@
+AWS: https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html
+Azure: https://docs.microsoft.com/es-es/azure/data-explorer/python-ingest-data
+Google Cloud: https://cloud.google.com/appengine/docs/standard/python/googlecloudstorageclient/read-write-to-cloud-storage?hl=es-419
